@@ -1,4 +1,6 @@
-### Opa, meu povo!
+# Olá, me chamo Jefferson! 
+Desenvolvedor Full-Stack | Software Engineer na **Avanade INC.**
 
-Me chamo Jefferson, tenho 29 anos e sou desenvolvedor Full Stack. Gosto de jogos eletrônicos, ouvir músicas e praticar atividades físicas.
-- Atualmente trabalho na **Avanade INC.**
+## Sobre mim
+* 🌎 Sou Pernambucano
+* 🎮 Gosto de jogos eletrônicos
